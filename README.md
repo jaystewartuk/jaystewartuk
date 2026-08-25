@@ -24,10 +24,11 @@ from git history on 2026-08-05, not estimated), inside verification gates
 built so the output can be trusted. Mostly a story about verification rather
 than generation.
 
-**UK-based and available now for a three-to-six-month contract** — senior
-TypeScript, Next.js and Postgres, outside IR35 preferred. Currently on a
-temporary working trip abroad, with a daily overlap from about 13:00 UK and
-flexibility outside it; back in the UK early in the engagement, and on site
-from then.
+**Open to a three-to-six-month contract** — senior TypeScript, Next.js and
+Postgres, outside IR35 preferred.
+
+UK-based and available now. Currently on a temporary working trip abroad, with
+a daily overlap from about 13:00 UK and flexibility outside it. Back in the UK
+early in the engagement, and on site from then.
 
 **[jaystewart.dev](https://jaystewart.dev)** · [jay@jaystewart.dev](mailto:jay@jaystewart.dev) · [LinkedIn](https://www.linkedin.com/in/jaystewart-dev)
