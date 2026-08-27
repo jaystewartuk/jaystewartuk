@@ -8,7 +8,7 @@ March 2026. Everything below was built since then.
 - **[AgendaProfe](https://agendaprofe.com)** — scheduling, payments and live
   video teaching, in production carrying real money. Web + Android, Postgres,
   Stripe, infrastructure as code, operated solo.
-- **[groundtruth](https://github.com/jaystewart-dev/groundtruth)** — an
+- **[groundtruth](https://github.com/jaystewartuk/groundtruth)** — an
   open-source CLI and GitHub Action (MIT) that verifies the claims in
   `CLAUDE.md` / `AGENTS.md` files against the actual repo and fails CI when
   one goes false. Built after an audit of my own context layer turned up 4
@@ -31,4 +31,4 @@ UK-based and available now. Currently on a temporary working trip abroad, with
 a daily overlap from about 13:00 UK and flexibility outside it. Back in the UK
 early in the engagement, and on site from then.
 
-**[jaystewart.co.uk](https://jaystewart.co.uk)** · [jay@jaystewart.co.uk](mailto:jay@jaystewart.co.uk) · [LinkedIn](https://www.linkedin.com/in/jaystewart-dev)
+**[jaystewart.co.uk](https://jaystewart.co.uk)** · [jay@jaystewart.co.uk](mailto:jay@jaystewart.co.uk) · [LinkedIn](https://www.linkedin.com/in/jaystewartuk)
