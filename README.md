@@ -13,7 +13,7 @@ March 2026. Everything below was built since then.
   `CLAUDE.md` / `AGENTS.md` files against the actual repo and fails CI when
   one goes false. Built after an audit of my own context layer turned up 4
   live lies.
-- **[The case study](https://jaystewart.dev/work/agent-operated-codebase/)**
+- **[The case study](https://jaystewart.co.uk/work/agent-operated-codebase/)**
   — how the practice works: the gates, the parallel agent sessions, and
   where it rotted anyway. Figures counted by script; live numbers on the
   site, not typed here where they rot.
@@ -31,4 +31,4 @@ UK-based and available now. Currently on a temporary working trip abroad, with
 a daily overlap from about 13:00 UK and flexibility outside it. Back in the UK
 early in the engagement, and on site from then.
 
-**[jaystewart.dev](https://jaystewart.dev)** · [jay@jaystewart.dev](mailto:jay@jaystewart.dev) · [LinkedIn](https://www.linkedin.com/in/jaystewart-dev)
+**[jaystewart.co.uk](https://jaystewart.co.uk)** · [jay@jaystewart.co.uk](mailto:jay@jaystewart.co.uk) · [LinkedIn](https://www.linkedin.com/in/jaystewart-dev)
