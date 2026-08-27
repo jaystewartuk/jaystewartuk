@@ -1,4 +1,4 @@
-### Jay Stewart — senior backend and full-stack engineer
+### Jay Stewart — senior full-stack engineer
 
 I build production systems where being wrong costs somebody money.
 High-traffic e-commerce and payments backends in Bristol from 2012 to 2020,
