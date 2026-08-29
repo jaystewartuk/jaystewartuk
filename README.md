@@ -5,7 +5,7 @@ High-traffic e-commerce and payments backends in Bristol from 2012 to 2020,
 four of those years on day rate; six years travelling; back to engineering in
 March 2026. Everything below was built since then.
 
-- **[AgendaProfe](https://agendaprofe.com)** — scheduling, payments and live
+- **[SpiralClass](https://spiralclass.com)** — scheduling, payments and live
   video teaching, in production carrying real money. Web + Android, Postgres,
   Stripe, infrastructure as code, operated solo.
 - **[groundtruth](https://github.com/jaystewartuk/groundtruth)** — an
