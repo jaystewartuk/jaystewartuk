@@ -1,6 +1,6 @@
 ### Jay Stewart
 
-Product engineer. I talk to users and ship with coding agents.
+Product engineer. I find out what users need, then ship it with coding agents.
 
 **Available now for remote contract work** with early-stage startups: MVPs and first versions,
 finding out what your users need before you build, Stripe Connect payments, and features on an
