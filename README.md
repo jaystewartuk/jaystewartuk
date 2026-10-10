@@ -4,7 +4,7 @@ Product engineer. I talk to users and ship with coding agents.
 
 **Available now for remote contract work** with early-stage startups: MVPs and first versions,
 finding out what your users need before you build, Stripe Connect payments, and features on an
-existing product. UK citizen and tax resident; I work hours that overlap with UK, European and
+existing product. UK citizen, UK-registered sole trader; I work hours that overlap with UK, European and
 US time zones.
 
 - **[SpiralClass](https://github.com/jaystewartuk/spiralclass)**: scheduling, payments and video
