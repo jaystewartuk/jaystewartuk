@@ -14,9 +14,9 @@ US working day.
 - **[WantToJoin](https://jaystewart.co.uk/work/wanttojoin/)**: one page per hostel with tonight's
   plans, RSVPs and a live meeting pin. From reading 2,800 guest messages to a live pilot at the
   hostel in three days.
-- **[Beckon](https://beckoncli.com)**: a remote inbox for terminal agents. Approve a waiting
+- **[Beckon](https://github.com/jaystewartuk/beckon)**: a remote inbox for terminal agents. Approve a waiting
   Claude Code session from your phone's lock screen; end-to-end encrypted, with signed responses.
-  Live since October 2026.
+  Live at [beckoncli.com](https://beckoncli.com) since October 2026; open source (AGPL server, MIT helper).
 
 Before that, eight years of e-commerce backend work on systems that hold other people's money.
 
