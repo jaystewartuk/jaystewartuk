@@ -16,7 +16,7 @@ US working day.
   hostel in three days.
 - **[Beckon](https://github.com/jaystewartuk/beckon)**: a remote inbox for terminal agents. Approve a waiting
   Claude Code session from your phone's lock screen; end-to-end encrypted, with signed responses.
-  Live at [beckoncli.com](https://beckoncli.com) since October 2026; open source (AGPL server, MIT helper).
+  Live at [beckoncli.com](https://beckoncli.com) since October 2026 with Stripe billing; open source (AGPL server, MIT helper) and self-hostable.
 
 Before that, eight years of e-commerce backend work on systems that hold other people's money.
 
