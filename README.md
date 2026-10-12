@@ -10,28 +10,20 @@ shipped without tests, review and a real-browser check.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://jaystewart.co.uk/work/spiralclass/"><img src="https://jaystewart.co.uk/media/spiralclass/poster.webp" alt="A student's phone showing a paid booking next to the teacher's schedule with the new class (demo data)"></a>
-<br><b><a href="https://github.com/jaystewartuk/spiralclass">SpiralClass</a></b> · live, real payments
-<br>Booking, payments and video for teachers. Money goes straight to the teacher's Stripe account.
-</td>
-<td width="50%" valign="top">
-<a href="https://jaystewart.co.uk/work/wanttojoin/"><img src="https://jaystewart.co.uk/media/wanttojoin/poster.webp" alt="Two phones showing a hostel outing in English and Spanish, with three people going (demo data)"></a>
-<br><b><a href="https://jaystewart.co.uk/work/wanttojoin/">WantToJoin</a></b> · pilot at one hostel
-<br>Tonight's hostel outings, and who's going, on one link. Research to live pilot in three days.
-</td>
+<td width="360"><a href="https://jaystewart.co.uk/work/spiralclass/"><img src="https://jaystewart.co.uk/media/spiralclass/poster-phone.webp" width="360" alt="A student's paid booking on a phone, with her first class confirmed (demo data)"></a></td>
+<td valign="middle"><b><a href="https://github.com/jaystewartuk/spiralclass">SpiralClass</a></b> · live, real payments<br><br>Booking, payments and video for teachers. Money goes straight to the teacher's Stripe account.</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://jaystewart.co.uk/work/beckon/"><img src="https://jaystewart.co.uk/media/beckon/poster.webp" alt="A coding agent in a terminal waiting for permission, and Beckon on a phone with Approve and Deny"></a>
-<br><b><a href="https://github.com/jaystewartuk/beckon">Beckon</a></b> · live, open source
-<br>Your coding agent is waiting; answer it from your phone. End-to-end encrypted, self-hostable.
-</td>
-<td width="50%" valign="top">
-<a href="https://stackquake.com"><img src="https://jaystewart.co.uk/media/stackquake/poster.webp" alt="A Stackquake note quoting deno.com word for word, on a laptop and a phone (demo account)"></a>
-<br><b><a href="https://stackquake.com">Stackquake</a></b> · building now
-<br>A change radar for the services you run on. Every note quotes the vendor word for word.
-</td>
+<td width="360"><a href="https://jaystewart.co.uk/work/wanttojoin/"><img src="https://jaystewart.co.uk/media/wanttojoin/poster-phone.webp" width="360" alt="A hostel outing on a phone with three people going (demo data)"></a></td>
+<td valign="middle"><b><a href="https://jaystewart.co.uk/work/wanttojoin/">WantToJoin</a></b> · pilot at one hostel<br><br>Tonight's hostel outings, and who's going, on one link. Research to live pilot in three days.</td>
+</tr>
+<tr>
+<td width="360"><a href="https://jaystewart.co.uk/work/beckon/"><img src="https://jaystewart.co.uk/media/beckon/poster-phone.webp" width="360" alt="Beckon on a phone: a coding agent waiting for permission, with Approve and Deny"></a></td>
+<td valign="middle"><b><a href="https://github.com/jaystewartuk/beckon">Beckon</a></b> · live, open source<br><br>Your coding agent is waiting; answer it from your phone. End-to-end encrypted, self-hostable.</td>
+</tr>
+<tr>
+<td width="360"><a href="https://stackquake.com"><img src="https://jaystewart.co.uk/media/stackquake/poster-phone.webp" width="360" alt="A Stackquake note on a phone, quoting deno.com word for word (demo account)"></a></td>
+<td valign="middle"><b><a href="https://stackquake.com">Stackquake</a></b> · building now<br><br>A change radar for the services you run on. Every note quotes the vendor word for word.</td>
 </tr>
 </table>
 
