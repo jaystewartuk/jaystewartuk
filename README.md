@@ -5,8 +5,8 @@ Product engineer. I find out what users need, then ship it with coding agents.
 **Available now for remote contract work** with early-stage startups. UK sole trader; overlaps UK
 afternoons and US hours.
 
-Three products shipped since March 2026, a fourth on the way. Agents wrote most of the code; nothing
-shipped without tests, review and a real-browser check.
+One deep system (SpiralClass, real payments) and three fast ones: WantToJoin in three days, Beckon in a week,
+Stackquake in two. Agents wrote most of the code; nothing shipped without tests, review and a real-browser check.
 
 <table>
 <tr>
