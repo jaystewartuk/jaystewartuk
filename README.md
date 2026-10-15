@@ -6,7 +6,7 @@ Eight years of e-commerce and payments backends. Now I build and run SpiralClass
 agents: real payments, live video with translated captions, and an LLM pipeline that turns each class
 into learning notes the teacher checks.
 
-**Open to remote roles, permanent or contract.** UK citizen; overlaps UK afternoons and all US hours.
+**Remote contracts first; open to permanent or on-site for the right role.** UK citizen; overlaps UK afternoons and all US hours.
 
 <table>
 <tr>
