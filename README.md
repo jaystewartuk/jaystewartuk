@@ -6,7 +6,7 @@ Eight years of e-commerce and payments backends. Now I build and run SpiralClass
 agents: real payments, live video with translated captions, and an LLM pipeline that turns each class
 into learning notes the teacher checks.
 
-**Remote contracts first; open to permanent or on-site for the right role.** UK citizen; overlaps UK afternoons and all US hours.
+**Remote contracts first; open to permanent or on-site for the right role.** UK citizen; Mexico City time (UTC−6); my hours flex to your team: UK afternoons or the US working day.
 
 <table>
 <tr>
@@ -15,9 +15,7 @@ into learning notes the teacher checks.
 </tr>
 </table>
 
-Before this: eight years of e-commerce backends, on systems that hold other people's money.
-
 **Hiring?** [jay@jaystewart.co.uk](mailto:jay@jaystewart.co.uk?subject=Role)
-· [all the work](https://jaystewart.co.uk/work/)
+· [the case study](https://jaystewart.co.uk/work/spiralclass/)
 · [working with me](https://jaystewart.co.uk/working-with-me/)
 · [LinkedIn](https://www.linkedin.com/in/jaystewartuk/)
