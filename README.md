@@ -4,7 +4,7 @@ Software engineer. Eight years before AI; now building and running production so
 
 Eight years of backend and full-stack engineering before AI. Since March 2026 I build and run SpiralClass in production with coding agents: real payments, live video with translated captions, and an LLM pipeline that turns each class into learning notes the teacher checks. Most of the code is agent-written; I review it, test it and run it.
 
-**Open to remote roles, contract or permanent; would relocate for the right one.** UK citizen; Mexico City time (UTC−6); my hours flex to your team: UK afternoons or the US working day.
+**Open to remote roles, contract or permanent.** UK citizen, resident in Mexico: Mexico City time (UTC−6), hours flex to your team (UK afternoons or the US working day); contractor through Deel or Remote, or direct.
 
 <table>
 <tr>
