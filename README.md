@@ -1,12 +1,10 @@
 ### Jay Stewart
 
-Software engineer. Backend, payments and AI.
+Software engineer. Eight years before AI; now building and running production software with coding agents.
 
-Eight years of e-commerce and payments backends. Now I build and run SpiralClass in production with coding
-agents: real payments, live video with translated captions, and an LLM pipeline that turns each class
-into learning notes the teacher checks.
+Eight years of backend and full-stack engineering before AI. Since March 2026 I build and run SpiralClass in production with coding agents: real payments, live video with translated captions, and an LLM pipeline that turns each class into learning notes the teacher checks. Most of the code is agent-written; I review it, test it and run it.
 
-**Remote contracts first; open to permanent or on-site for the right role.** UK citizen; Mexico City time (UTC−6); my hours flex to your team: UK afternoons or the US working day.
+**Open to remote roles, contract or permanent; would relocate for the right one.** UK citizen; Mexico City time (UTC−6); my hours flex to your team: UK afternoons or the US working day.
 
 <table>
 <tr>
